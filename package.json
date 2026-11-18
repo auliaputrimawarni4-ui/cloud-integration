@@ -1,0 +1,16 @@
+{
+  "name": "cloud-integration",
+  "version": "1.0.0",
+  "description": "Praktikum 4 - Cloud Integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
